@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3f392d2.css",
-    "main.js": "/static/js/main.79478531.js",
-    "static/js/787.512dd3f2.chunk.js": "/static/js/787.512dd3f2.chunk.js",
-    "index.html": "/index.html",
-    "main.a3f392d2.css.map": "/static/css/main.a3f392d2.css.map",
-    "main.79478531.js.map": "/static/js/main.79478531.js.map",
-    "787.512dd3f2.chunk.js.map": "/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "/fadv-portofolio-task/static/css/main.a3f392d2.css",
+    "main.js": "/fadv-portofolio-task/static/js/main.67c19990.js",
+    "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/fadv-portofolio-task/index.html",
+    "main.a3f392d2.css.map": "/fadv-portofolio-task/static/css/main.a3f392d2.css.map",
+    "main.67c19990.js.map": "/fadv-portofolio-task/static/js/main.67c19990.js.map",
+    "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3f392d2.css",
-    "static/js/main.79478531.js"
+    "static/js/main.67c19990.js"
   ]
 }
