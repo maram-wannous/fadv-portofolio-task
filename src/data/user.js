@@ -1,9 +1,10 @@
+import logoimg from '../assets/logo.jpg';
 const INFO = {
 	main: {
 		title: "Reactfolio by maram_wannous",
 		name: "Maram W.",
 		email: "maram.wannous@gmail.com",
-		logo: "../logo.jpg",
+		logo: logoimg,
 	},
 
 	socials: {

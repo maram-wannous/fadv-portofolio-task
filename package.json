@@ -1,5 +1,5 @@
 {	
-	"homepages": "https://maram-wannous.github.io/fadv-portofolio-task",
+	"homepage": "https://maram-wannous.github.io/fadv-portofolio-task",
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
@@ -30,8 +30,8 @@
 	},
 	"scripts": {
 		"start": "react-scripts start",
-		"deploy": "gh-pages -d build",
 		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
