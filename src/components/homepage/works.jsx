@@ -8,6 +8,8 @@ import twitterimg from '../../assets/twitter.png';
 import "./styles/works.css";
 
 const Works = () => {
+	const facebooke= facebokeimg;
+	const twitter= twitterimg;
 	return (
 		<div className="works">
 			<Card
@@ -17,7 +19,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src={facebokeimg}
+								src={facebooke}
 								alt="facebook"
 								className="work-image"
 							/>
@@ -30,7 +32,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src={twitterimg}
+								src={twitter}
 								alt="twitter"
 								className="work-image"
 							/>
